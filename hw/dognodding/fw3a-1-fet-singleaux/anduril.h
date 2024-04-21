@@ -62,7 +62,7 @@
 //#undef USE_SIMPLE_UI
 
 //Sunset timer
-//#undef USE_SUNSET_TIMER
+#undef USE_SUNSET_TIMER
 
 // Beacon and SOS modes
 //#undef USE_BEACON_MODE
@@ -70,17 +70,17 @@
 
 // Strobe modes
 //#undef USE_BIKE_FLASHER_MODE
-//#undef USE_PARTY_STROBE_MODE
-//#undef USE_TACTICAL_STROBE_MODE
-//#undef USE_POLICE_STROBE_MODE
+#undef USE_PARTY_STROBE_MODE
+#undef USE_TACTICAL_STROBE_MODE
+#undef USE_POLICE_STROBE_MODE
 //#undef USE_LIGHTNING_MODE
 //#undef USE_CANDLE_MODE
 
 // Channel config for strobe modes
-//#undef USE_CHANNEL_PER_STROBE
+#undef USE_CHANNEL_PER_STROBE
 
 // Momentary mode
-//#undef USE_MOMENTARY_MODE
+#undef USE_MOMENTARY_MODE
 
 // Tactical mode
 #undef USE_TACTICAL_MODE
